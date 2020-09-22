@@ -1,0 +1,8 @@
+modLAME = 20, 6, 699, 687, C
+modGeneral = 104, 45, 775, 780, C
+modErrHandler = 158, -10, 736, 514, C
+clsFileIo = 22, 82, 770, 606, C
+frmProgress = 72, 142, 756, 673, C, 44, 44, 580, 537, C
+modWAV = 154, 154, 727, 678, C
+modAKRip32 = 132, 132, 705, 656, C
+frmMain = 50, -12, 792, 554, , 83, 32, 656, 556, C
